@@ -57,7 +57,7 @@ export default {
   components: {},
   data() {
     return {
-      api_key: "API_KEY",
+      api_key: "823f0f65ed8aaae8cfd39daacfcb4056",
       url_base: "https://api.openweathermap.org/data/2.5/",
       query: "",
       weather: {},
